@@ -1,0 +1,26 @@
+.box{
+    border: 4px solid black; 
+    background-color: yellowgreen;
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:100px;
+}
+
+span {
+    display: table;
+    margin: 0 auto;
+    color: yellowgreen;
+}
+
+body{
+    background-color:black;
+}
+
+h1{
+    color: yellowgreen;
+    display: table;
+    margin: 0 auto;
+    margin-top:100px;
+}
